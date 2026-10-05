@@ -1,0 +1,27 @@
+{
+ "liveMark": {
+  "afterSeconds": 300,
+  "windowMinutes": 3,
+  "decidedLowMicros": 10000,
+  "decidedHighMicros": 990000,
+  "twoSidedAgreement": 0.01
+ },
+ "counterpartLive": {
+  "edge": 0.05,
+  "maxSpread": 0.02,
+  "marginSigma": {
+   "NFL": 13.86,
+   "COLLEGE": 16
+  },
+  "soccerMinutes": 94,
+  "priceFloor": 0.05,
+  "priceCeiling": 0.95
+ },
+ "juke_sharp": {
+  "verdictCells": 8,
+  "minimum": {
+   "picks": 30,
+   "events": 15
+  }
+ }
+}

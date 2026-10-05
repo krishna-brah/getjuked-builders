@@ -1,0 +1,6078 @@
+[
+ {
+  "input": {
+   "looks": 1,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.708351",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.167665",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.186059",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.025304",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.362433",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.462310",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.524866",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.959984",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.088589",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.387130",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.853825",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.487820",
+       "gradedShares": "33"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.539873",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.286592",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.454880",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.224525",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.789052",
+       "gradedShares": "7"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.126678",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.852957",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.519995",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.469042",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.577363",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.376295",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.136496",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.793708",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.669606",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.548481",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.362397",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.442250",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.366873",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.552281",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.190411",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.924580",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.513620",
+       "gradedShares": "18"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 2,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.980117",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.098747",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.467980",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.862819",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.838655",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.364507",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.104844",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.128097",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.358858",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.430029",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.493041",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.419637",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.074856",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.346612",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.054635",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.721898",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.792487",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.382085",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.670549",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.055504",
+       "gradedShares": "7"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.079273",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.179006",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.898572",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.834991",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.114470",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.773105",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.538231",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.736463",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.659392",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.165264",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.486119",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.578813",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.871001",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.159895",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.462927",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.517609",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.733307",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.370828",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.718228",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.975228",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.400894",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.772101",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.313051",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.417279",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.516436",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.547019",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.171784",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.792110",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.081331",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.545919",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.440382",
+       "gradedShares": "33"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.946779",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.491474",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.426694",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.209810",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.739364",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.640535",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.416442",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.401688",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.035953",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.496235",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.466757",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.822575",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.047891",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.826206",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.930038",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.905672",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.590474",
+       "gradedShares": "10"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 3,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.638998",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.065076",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.972320",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.490993",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.406737",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.680566",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.950497",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.027968",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.203059",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.848482",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.253952",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.039925",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.962540",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.893695",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.895994",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.216952",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.013754",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.889860",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.399446",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.188293",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.995550",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.640922",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.268020",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.015719",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.553320",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.714690",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.402599",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.223144",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.056825",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.736952",
+       "gradedShares": "25"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.469430",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.459790",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.453003",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.217182",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.285470",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.465637",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.454391",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.575429",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.405114",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.743899",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.519501",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.619381",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.057762",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.602072",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.027883",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.091117",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.655094",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.182656",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.775592",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.346492",
+       "gradedShares": "35"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 4,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.702239",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.562764",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.548659",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.736522",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.119677",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.360988",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.852862",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.681381",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.521460",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.778217",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.523993",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-6.172757",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.686415",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.400440",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.401340",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.451680",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.552081",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.710940",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.696347",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.145912",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.669539",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.730107",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:22",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.140979",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:23",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.267607",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:24",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.892410",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.325642",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.287995",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.006742",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.676639",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.830283",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.744271",
+       "gradedShares": "42"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 5,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.457958",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.924740",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.280998",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.011662",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.272183",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.557503",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.584653",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.937530",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.952581",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.092424",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.957668",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.180063",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.588738",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.973750",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.128093",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.877170",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.081607",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.580633",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.404356",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.619712",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.883605",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.697337",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.886871",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.478002",
+       "gradedShares": "16"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 6,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.427127",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.324167",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.061673",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.623604",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.661829",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.448072",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.392483",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.341776",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.161064",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.633497",
+       "gradedShares": "25"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.615461",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.441132",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.091613",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.572962",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.786388",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.955701",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.780479",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.261244",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.040982",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.923487",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.841697",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.497082",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.842869",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.062459",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.282510",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.011912",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.833139",
+       "gradedShares": "7"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 1,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.332021",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "7.399637",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.455426",
+       "gradedShares": "11"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.270140",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.089064",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.132602",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "6.539993",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.172235",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.032292",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "5.345467",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.378262",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.165570",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.755061",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.592378",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.153826",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.282772",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.720701",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.900551",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.037485",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.255921",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.638364",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.617159",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.437633",
+       "gradedShares": "8"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 2,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.730810",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.365109",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.221214",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.838249",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.233236",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.181445",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.976953",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.892379",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.321716",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.386025",
+       "gradedShares": "21"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 3,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.014624",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.850274",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.743072",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.509078",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.805436",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.384418",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.799955",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.544758",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.749853",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.901624",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.437023",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.909347",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.972619",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.367381",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.107367",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.897533",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.401931",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.162482",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.941518",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.700017",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.552274",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.287151",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:22",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.484467",
+       "gradedShares": "32"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 4,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.273094",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.529378",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.789568",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.018435",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.164695",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.040880",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.479686",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.142261",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.137309",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.484080",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.909407",
+       "gradedShares": "33"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.455659",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.350053",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.589577",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.505036",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.763992",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.705425",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.026891",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.075213",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.246708",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.679280",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.464669",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:22",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.078812",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:23",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.012995",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.041020",
+       "gradedShares": "24"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.977018",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.316592",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.896426",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.207448",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.593600",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.913535",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.645762",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.268888",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.301880",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.357337",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.990398",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.539207",
+       "gradedShares": "27"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.243994",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.353295",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.645448",
+       "gradedShares": "41"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.275721",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.003605",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.267349",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.558629",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.735062",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.516223",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:22",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.502224",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:23",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.073473",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.147755",
+       "gradedShares": "26"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 5,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.713999",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.101234",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.611268",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.816863",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.358944",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.521501",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.385060",
+       "gradedShares": "22"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.517841",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.747217",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.858642",
+       "gradedShares": "37"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.631095",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.648739",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.239417",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.202368",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.410612",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.130028",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.716126",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.907850",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.146915",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.249436",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.197634",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.128432",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.565507",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.002141",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.186199",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.014973",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.379824",
+       "gradedShares": "33"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.248421",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.182973",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.484620",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.002613",
+       "gradedShares": "8"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.678279",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.325991",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.691547",
+       "gradedShares": "31"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.043581",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.654808",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.469244",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.501904",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.090913",
+       "gradedShares": "23"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.762465",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.231220",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.216044",
+       "gradedShares": "21"
+      }
+     }
+    },
+    {
+     "eventId": "e:20",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.965953",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:21",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.169740",
+       "gradedShares": "42"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.361670",
+       "gradedShares": "5"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.051242",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.274241",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.489765",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.555728",
+       "gradedShares": "32"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-7.013688",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.321817",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.710794",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.847505",
+       "gradedShares": "30"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.450893",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.605792",
+       "gradedShares": "10"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.440508",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.370058",
+       "gradedShares": "28"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.728995",
+       "gradedShares": "16"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.238109",
+       "gradedShares": "9"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.868478",
+       "gradedShares": "29"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.830822",
+       "gradedShares": "35"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.930307",
+       "gradedShares": "36"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ },
+ {
+  "input": {
+   "looks": 6,
+   "minimum": {
+    "picks": 30,
+    "events": 15
+   },
+   "picks": [
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.339130",
+       "gradedShares": "26"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.349127",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.866577",
+       "gradedShares": "34"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "2.460368",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.831226",
+       "gradedShares": "36"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.929056",
+       "gradedShares": "14"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.174719",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:7",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-3.742973",
+       "gradedShares": "40"
+      }
+     }
+    },
+    {
+     "eventId": "e:8",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "4.234729",
+       "gradedShares": "38"
+      }
+     }
+    },
+    {
+     "eventId": "e:9",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.467499",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:10",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.912491",
+       "gradedShares": "13"
+      }
+     }
+    },
+    {
+     "eventId": "e:11",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-5.101270",
+       "gradedShares": "44"
+      }
+     }
+    },
+    {
+     "eventId": "e:12",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.924170",
+       "gradedShares": "17"
+      }
+     }
+    },
+    {
+     "eventId": "e:13",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.712539",
+       "gradedShares": "19"
+      }
+     }
+    },
+    {
+     "eventId": "e:14",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-1.491722",
+       "gradedShares": "18"
+      }
+     }
+    },
+    {
+     "eventId": "e:15",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-4.762612",
+       "gradedShares": "39"
+      }
+     }
+    },
+    {
+     "eventId": "e:16",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.191096",
+       "gradedShares": "15"
+      }
+     }
+    },
+    {
+     "eventId": "e:17",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.869134",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:18",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.550501",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:19",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.735044",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:0",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.783245",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:1",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "3.879001",
+       "gradedShares": "33"
+      }
+     }
+    },
+    {
+     "eventId": "e:2",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "1.047848",
+       "gradedShares": "43"
+      }
+     }
+    },
+    {
+     "eventId": "e:3",
+     "block": {
+      "listingId": "l:fb:spread",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.425784",
+       "gradedShares": "6"
+      }
+     }
+    },
+    {
+     "eventId": "e:4",
+     "block": {
+      "listingId": "l:sc:total",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-0.963895",
+       "gradedShares": "12"
+      }
+     }
+    },
+    {
+     "eventId": "e:5",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "-2.834061",
+       "gradedShares": "20"
+      }
+     }
+    },
+    {
+     "eventId": "e:6",
+     "block": {
+      "listingId": "l:fb:winner",
+      "live": {
+       "gradedActions": 1,
+       "credits": "0.654345",
+       "gradedShares": "20"
+      }
+     }
+    }
+   ],
+   "axes": {
+    "l:fb:winner": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "WINNER",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:fb:spread": {
+     "sportId": "sport:football",
+     "competitionId": null,
+     "marketFamily": "SPREAD",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    },
+    "l:sc:total": {
+     "sportId": "sport:soccer",
+     "competitionId": null,
+     "marketFamily": "TOTAL",
+     "period": "FULL_GAME",
+     "isMainLine": true
+    }
+   }
+  },
+  "expected": {
+   "provisional": true,
+   "gradedPicks": 0,
+   "games": 0,
+   "credits": "0.000000",
+   "verdicts": [
+    {
+     "cellId": "OVERALL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:football",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "SPORT:sport:soccer",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:WINNER",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:SPREAD",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TOTAL",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:PLAYER_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    },
+    {
+     "cellId": "MARKET_TYPE:TEAM_PROP",
+     "label": "INSUFFICIENT_EVIDENCE",
+     "picks": 0,
+     "events": 0,
+     "estimate": null,
+     "picksNeeded": 30,
+     "eventsNeeded": 15
+    }
+   ]
+  }
+ }
+]

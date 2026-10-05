@@ -1,0 +1,3023 @@
+{
+ "clock": [
+  {
+   "kind": "FOOTBALL",
+   "period": "Q1",
+   "elapsed": "15:00",
+   "expectedMinutesLeft": 60,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q2",
+   "elapsed": "0:00",
+   "expectedMinutesLeft": 30,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q2",
+   "elapsed": "01:53",
+   "expectedMinutesLeft": 31.883333333333333,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "HT",
+   "elapsed": null,
+   "expectedMinutesLeft": 30,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "End Q2",
+   "elapsed": null,
+   "expectedMinutesLeft": 30,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q3",
+   "elapsed": "12:30",
+   "expectedMinutesLeft": 27.5,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "End Q3",
+   "elapsed": null,
+   "expectedMinutesLeft": 15,
+   "expectedCheckpoint": "LATE"
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q4",
+   "elapsed": "10:41",
+   "expectedMinutesLeft": 10.683333333333334,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q4",
+   "elapsed": "0:12",
+   "expectedMinutesLeft": 0.2,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "OT",
+   "elapsed": "8:00",
+   "expectedMinutesLeft": null,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q2",
+   "elapsed": null,
+   "expectedMinutesLeft": null,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "FOOTBALL",
+   "period": "Q5",
+   "elapsed": "1:00",
+   "expectedMinutesLeft": null,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "SOCCER",
+   "period": "1H",
+   "elapsed": "7",
+   "expectedMinutesLeft": 83,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "SOCCER",
+   "period": "1H",
+   "elapsed": "44",
+   "expectedMinutesLeft": 46,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "SOCCER",
+   "period": "HT",
+   "elapsed": null,
+   "expectedMinutesLeft": 45,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "SOCCER",
+   "period": "2H",
+   "elapsed": "46",
+   "expectedMinutesLeft": 44,
+   "expectedCheckpoint": "HALF"
+  },
+  {
+   "kind": "SOCCER",
+   "period": "2H",
+   "elapsed": "70",
+   "expectedMinutesLeft": 20,
+   "expectedCheckpoint": "LATE"
+  },
+  {
+   "kind": "SOCCER",
+   "period": "2H",
+   "elapsed": "90+3",
+   "expectedMinutesLeft": null,
+   "expectedCheckpoint": null
+  },
+  {
+   "kind": "SOCCER",
+   "period": "ET",
+   "elapsed": "100",
+   "expectedMinutesLeft": null,
+   "expectedCheckpoint": null
+  }
+ ],
+ "football": [
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.702,
+    "sigma": 13.86,
+    "home": 20,
+    "away": 3,
+    "minutesLeft": 24.29
+   },
+   "expected": 0.9997255396275151
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.108,
+    "sigma": 16,
+    "home": 32,
+    "away": 24,
+    "minutesLeft": 28.88
+   },
+   "expected": 0.445245290793465
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.634,
+    "sigma": 13.86,
+    "home": 32,
+    "away": 27,
+    "minutesLeft": 3.63
+   },
+   "expected": 0.9395364834344461
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.801,
+    "sigma": 16,
+    "home": 25,
+    "away": 20,
+    "minutesLeft": 14.49
+   },
+   "expected": 0.14657035923139533
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.806,
+    "sigma": 13.86,
+    "home": 10,
+    "away": 25,
+    "minutesLeft": 7.13
+   },
+   "expected": 0.010206742296629878
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.619,
+    "sigma": 13.86,
+    "home": 23,
+    "away": 2,
+    "minutesLeft": 9.31
+   },
+   "expected": 0.9999633963874581
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.437,
+    "sigma": 16,
+    "home": 14,
+    "away": 5,
+    "minutesLeft": 48.88
+   },
+   "expected": 0.5975459068264317
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.255,
+    "sigma": 13.86,
+    "home": 29,
+    "away": 11,
+    "minutesLeft": 1.27
+   },
+   "expected": 0.00014533579600573
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.385,
+    "sigma": 16,
+    "home": 25,
+    "away": 6,
+    "minutesLeft": 50.36
+   },
+   "expected": 0.15189885554287724
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.743,
+    "sigma": 16,
+    "home": 12,
+    "away": 27,
+    "minutesLeft": 37.76
+   },
+   "expected": 0.2533335985426107
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.71,
+    "sigma": 13.86,
+    "home": 30,
+    "away": 15,
+    "minutesLeft": 7.55
+   },
+   "expected": 0.9994172421478436
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.31,
+    "sigma": 16,
+    "home": 23,
+    "away": 14,
+    "minutesLeft": 15.27
+   },
+   "expected": 0.19355691915456869
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.522,
+    "sigma": 16,
+    "home": 10,
+    "away": 0,
+    "minutesLeft": 4.43
+   },
+   "expected": 0.010302900858601693
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.566,
+    "sigma": 13.86,
+    "home": 29,
+    "away": 17,
+    "minutesLeft": 40.59
+   },
+   "expected": 0.1171513028420692
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.739,
+    "sigma": 13.86,
+    "home": 30,
+    "away": 22,
+    "minutesLeft": 54.93
+   },
+   "expected": 0.11201773143167604
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.146,
+    "sigma": 13.86,
+    "home": 29,
+    "away": 24,
+    "minutesLeft": 4.68
+   },
+   "expected": 0.028612703184304866
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.866,
+    "sigma": 13.86,
+    "home": 24,
+    "away": 4,
+    "minutesLeft": 22.01
+   },
+   "expected": 0.9988685465451621
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.318,
+    "sigma": 16,
+    "home": 22,
+    "away": 17,
+    "minutesLeft": 10.49
+   },
+   "expected": 0.2913403971465989
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-7.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.337,
+    "sigma": 13.86,
+    "home": 25,
+    "away": 31,
+    "minutesLeft": 41.03
+   },
+   "expected": 0.0635385816190166
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-7.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.141,
+    "sigma": 16,
+    "home": 29,
+    "away": 15,
+    "minutesLeft": 3.61
+   },
+   "expected": 0.9180870294218653
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.594,
+    "sigma": 13.86,
+    "home": 5,
+    "away": 21,
+    "minutesLeft": 40.47
+   },
+   "expected": 0.11308687072669849
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.372,
+    "sigma": 13.86,
+    "home": 29,
+    "away": 15,
+    "minutesLeft": 8.87
+   },
+   "expected": 0.9938174787581646
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.666,
+    "sigma": 13.86,
+    "home": 24,
+    "away": 1,
+    "minutesLeft": 58.08
+   },
+   "expected": 0.9825119684181833
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.17,
+    "sigma": 16,
+    "home": 29,
+    "away": 31,
+    "minutesLeft": 38.33
+   },
+   "expected": 0.8209597547588092
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.486,
+    "sigma": 13.86,
+    "home": 28,
+    "away": 21,
+    "minutesLeft": 10.48
+   },
+   "expected": 0.883718639030794
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.862,
+    "sigma": 16,
+    "home": 0,
+    "away": 30,
+    "minutesLeft": 51.18
+   },
+   "expected": 0.8470924097683408
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.155,
+    "sigma": 16,
+    "home": 17,
+    "away": 8,
+    "minutesLeft": 4.88
+   },
+   "expected": 0.046203187620430575
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.117,
+    "sigma": 16,
+    "home": 31,
+    "away": 12,
+    "minutesLeft": 48.08
+   },
+   "expected": 0.6030306957899454
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.729,
+    "sigma": 16,
+    "home": 17,
+    "away": 34,
+    "minutesLeft": 3.77
+   },
+   "expected": 0.07107522998142501
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.82,
+    "sigma": 16,
+    "home": 25,
+    "away": 34,
+    "minutesLeft": 42.18
+   },
+   "expected": 0.43475178065278686
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-14.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.356,
+    "sigma": 16,
+    "home": 31,
+    "away": 5,
+    "minutesLeft": 23.14
+   },
+   "expected": 0.000059884422772826795
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.252,
+    "sigma": 16,
+    "home": 21,
+    "away": 32,
+    "minutesLeft": 3
+   },
+   "expected": 0.0006321087154008698
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.226,
+    "sigma": 16,
+    "home": 23,
+    "away": 3,
+    "minutesLeft": 41.96
+   },
+   "expected": 0.19329767621913924
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.815,
+    "sigma": 16,
+    "home": 2,
+    "away": 10,
+    "minutesLeft": 44.01
+   },
+   "expected": 0.5729827821393102
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.185,
+    "sigma": 16,
+    "home": 28,
+    "away": 13,
+    "minutesLeft": 56.14
+   },
+   "expected": 0.45936380080547823
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.25,
+    "sigma": 16,
+    "home": 20,
+    "away": 34,
+    "minutesLeft": 20.51
+   },
+   "expected": 0.02931652662914014
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.731,
+    "sigma": 16,
+    "home": 28,
+    "away": 16,
+    "minutesLeft": 4.06
+   },
+   "expected": 0.9988302916856879
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.131,
+    "sigma": 16,
+    "home": 5,
+    "away": 18,
+    "minutesLeft": 22.54
+   },
+   "expected": 0.9779492342073356
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.342,
+    "sigma": 13.86,
+    "home": 13,
+    "away": 22,
+    "minutesLeft": 13.04
+   },
+   "expected": 0.9432473365561436
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.61,
+    "sigma": 16,
+    "home": 1,
+    "away": 20,
+    "minutesLeft": 43.98
+   },
+   "expected": 0.35146544518503
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "10.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.123,
+    "sigma": 13.86,
+    "home": 26,
+    "away": 16,
+    "minutesLeft": 16.37
+   },
+   "expected": 0.9869827224095111
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.405,
+    "sigma": 13.86,
+    "home": 32,
+    "away": 31,
+    "minutesLeft": 56.5
+   },
+   "expected": 0.33754002343568207
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.195,
+    "sigma": 16,
+    "home": 17,
+    "away": 22,
+    "minutesLeft": 0.85
+   },
+   "expected": 0.000002491538702686924
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.263,
+    "sigma": 16,
+    "home": 6,
+    "away": 24,
+    "minutesLeft": 50.52
+   },
+   "expected": 0.964688440096511
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.398,
+    "sigma": 16,
+    "home": 33,
+    "away": 10,
+    "minutesLeft": 42.14
+   },
+   "expected": 0.06698549414595423
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.62,
+    "sigma": 13.86,
+    "home": 16,
+    "away": 29,
+    "minutesLeft": 9.59
+   },
+   "expected": 0.9869248437779982
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.22,
+    "sigma": 13.86,
+    "home": 5,
+    "away": 10,
+    "minutesLeft": 27.47
+   },
+   "expected": 0.9069531114709728
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.746,
+    "sigma": 16,
+    "home": 27,
+    "away": 22,
+    "minutesLeft": 9.43
+   },
+   "expected": 0.2557327023780695
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.256,
+    "sigma": 13.86,
+    "home": 17,
+    "away": 11,
+    "minutesLeft": 54.8
+   },
+   "expected": 0.5689469764407402
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "-7.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.894,
+    "sigma": 13.86,
+    "home": 33,
+    "away": 31,
+    "minutesLeft": 48.77
+   },
+   "expected": 0.7533568870658898
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.289,
+    "sigma": 13.86,
+    "home": 29,
+    "away": 4,
+    "minutesLeft": 33.99
+   },
+   "expected": 0.9760235528104744
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.581,
+    "sigma": 13.86,
+    "home": 20,
+    "away": 17,
+    "minutesLeft": 55.39
+   },
+   "expected": 0.6633847545302286
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.68,
+    "sigma": 13.86,
+    "home": 25,
+    "away": 33,
+    "minutesLeft": 58.71
+   },
+   "expected": 0.6191349018211799
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.258,
+    "sigma": 13.86,
+    "home": 0,
+    "away": 3,
+    "minutesLeft": 9.63
+   },
+   "expected": 0.21171136658455636
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-7.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.476,
+    "sigma": 13.86,
+    "home": 6,
+    "away": 23,
+    "minutesLeft": 41.15
+   },
+   "expected": 0.8098949684218213
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.484,
+    "sigma": 16,
+    "home": 5,
+    "away": 20,
+    "minutesLeft": 25.27
+   },
+   "expected": 0.07069649703518338
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-14.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.403,
+    "sigma": 16,
+    "home": 31,
+    "away": 11,
+    "minutesLeft": 18.87
+   },
+   "expected": 0.00010480929629835822
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "pregameHomeWin": 0.495,
+    "sigma": 16,
+    "home": 32,
+    "away": 29,
+    "minutesLeft": 19.04
+   },
+   "expected": 0.48069310576557245
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.452,
+    "sigma": 16,
+    "home": 32,
+    "away": 17,
+    "minutesLeft": 54.14
+   },
+   "expected": 0.808495226632985
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NEUTRAL"
+   },
+   "input": {
+    "pregameHomeWin": 0.211,
+    "sigma": 13.86,
+    "home": 2,
+    "away": 4,
+    "minutesLeft": 56.72
+   },
+   "expected": 0.1764149415012639
+  }
+ ],
+ "soccerRates": [
+  {
+   "input": {
+    "home": 0.45523629188537595,
+    "draw": 0.19319640398025512,
+    "away": 0.35156730413436893
+   },
+   "expected": {
+    "home": 2.38,
+    "away": 2.1
+   }
+  },
+  {
+   "input": {
+    "home": 0.4855642795562744,
+    "draw": 0.2794485211372375,
+    "away": 0.23498719930648804
+   },
+   "expected": {
+    "home": 1.34,
+    "away": 0.84
+   }
+  },
+  {
+   "input": {
+    "home": 0.6705889225006103,
+    "draw": 0.27688761949539187,
+    "away": 0.052523458003997825
+   },
+   "expected": {
+    "home": 1.34,
+    "away": 0.2
+   }
+  },
+  {
+   "input": {
+    "home": 0.6596998691558837,
+    "draw": 0.184506618976593,
+    "away": 0.15579351186752324
+   },
+   "expected": {
+    "home": 2.32,
+    "away": 1.04
+   }
+  },
+  {
+   "input": {
+    "home": 0.5763102233409881,
+    "draw": 0.22653467059135435,
+    "away": 0.19715510606765752
+   },
+   "expected": {
+    "home": 1.84,
+    "away": 0.98
+   }
+  },
+  {
+   "input": {
+    "home": 0.47445428371429443,
+    "draw": 0.23357064127922056,
+    "away": 0.291975075006485
+   },
+   "expected": {
+    "home": 1.76,
+    "away": 1.34
+   }
+  },
+  {
+   "input": {
+    "home": 0.5441882848739624,
+    "draw": 0.2772059619426727,
+    "away": 0.17860575318336486
+   },
+   "expected": {
+    "home": 1.38,
+    "away": 0.66
+   }
+  },
+  {
+   "input": {
+    "home": 0.4345201253890991,
+    "draw": 0.1565464675426483,
+    "away": 0.40893340706825254
+   },
+   "expected": {
+    "home": 3.42,
+    "away": 3.34
+   }
+  }
+ ],
+ "soccer": [
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.26,
+     "away": 0.8
+    },
+    "home": 1,
+    "away": 1,
+    "minutesLeft": 19
+   },
+   "expected": 0
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.68,
+     "away": 1.17
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 88
+   },
+   "expected": 0.20388934638341968
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "OVER",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.44,
+     "away": 1.15
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 78
+   },
+   "expected": 0.8196778619300709
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "OVER",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.05,
+     "away": 0.9
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 5
+   },
+   "expected": 0.1703091584665204
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "0.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.64,
+     "away": 0.4
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 48
+   },
+   "expected": 0.24789132766244357
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.39,
+     "away": 0.79
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 15
+   },
+   "expected": 0.5258359708085081
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.82,
+     "away": 1.59
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 22
+   },
+   "expected": 0.35582653531249925
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.93,
+     "away": 1.37
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 55
+   },
+   "expected": 0.06502957601522319
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "OVER",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.67,
+     "away": 0.96
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 34
+   },
+   "expected": 0.9999999999999996
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.6,
+     "away": 0.43
+    },
+    "home": 2,
+    "away": 1,
+    "minutesLeft": 26
+   },
+   "expected": 0.7198420944739538
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.21,
+     "away": 0.87
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 2
+   },
+   "expected": 0.8750642032412805
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.06,
+     "away": 1.95
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 36
+   },
+   "expected": 0.5638579273574474
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "0.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.93,
+     "away": 1.43
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 54
+   },
+   "expected": 0.1872038509884873
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.9,
+     "away": 0.68
+    },
+    "home": 2,
+    "away": 1,
+    "minutesLeft": 23
+   },
+   "expected": 0.09814078694354661
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.04,
+     "away": 1.13
+    },
+    "home": 2,
+    "away": 2,
+    "minutesLeft": 85
+   },
+   "expected": 0.2062194535345613
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.49,
+     "away": 0.9
+    },
+    "home": 2,
+    "away": 2,
+    "minutesLeft": 28
+   },
+   "expected": 0.5148597267552592
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.12,
+     "away": 0.92
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 40
+   },
+   "expected": 0.9999999999999758
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "OVER",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.28,
+     "away": 1.2
+    },
+    "home": 1,
+    "away": 1,
+    "minutesLeft": 47
+   },
+   "expected": 0.7395988402387793
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.19,
+     "away": 1.17
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 13
+   },
+   "expected": 0.19363014612990312
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.73,
+     "away": 0.71
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 44
+   },
+   "expected": 0.8543702791332872
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "3.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.98,
+     "away": 1.98
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 58
+   },
+   "expected": 0.26509240372818177
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.91,
+     "away": 1.31
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 83
+   },
+   "expected": 0
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1,
+     "away": 1.14
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 50
+   },
+   "expected": 0.0887591278638033
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.77,
+     "away": 0.42
+    },
+    "home": 2,
+    "away": 2,
+    "minutesLeft": 88
+   },
+   "expected": 0.7013610367386475
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 0.89,
+     "away": 0.76
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 63
+   },
+   "expected": 0.42396115264392925
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.88,
+     "away": 1.29
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 64
+   },
+   "expected": 0.4094216758554147
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.51,
+     "away": 0.43
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 75
+   },
+   "expected": 0.9695515945318294
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.48,
+     "away": 0.44
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 27
+   },
+   "expected": 0.3861993675318449
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.14,
+     "away": 1.19
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 0
+   },
+   "expected": 0.9529033037100374
+  },
+  {
+   "rule": {
+    "kind": "TOTAL",
+    "selection": "UNDER",
+    "lineFixed": "2.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.01,
+     "away": 1.13
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 80
+   },
+   "expected": 0.0604488668821904
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "HOME",
+    "lineFixed": "0.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2,
+     "away": 1.55
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 6
+   },
+   "expected": 0.9994613019062166
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.95,
+     "away": 1.9
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 0
+   },
+   "expected": 0.07368777861582197
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.35,
+     "away": 1.72
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 73
+   },
+   "expected": 0.5035336506584663
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.51,
+     "away": 0.91
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 43
+   },
+   "expected": 0.16035760869522145
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.08,
+     "away": 0.62
+    },
+    "home": 2,
+    "away": 1,
+    "minutesLeft": 83
+   },
+   "expected": 0.023155465045802712
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.81,
+     "away": 0.98
+    },
+    "home": 1,
+    "away": 1,
+    "minutesLeft": 89
+   },
+   "expected": 0.28860097478301516
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.62,
+     "away": 1.22
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 62
+   },
+   "expected": 0.18344644014829023
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.77,
+     "away": 1.98
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 84
+   },
+   "expected": 0.6825020857920477
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.21,
+     "away": 0.6
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 50
+   },
+   "expected": 0.9748286464905629
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.73,
+     "away": 1.8
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 84
+   },
+   "expected": 0.18714197076753278
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 2.35,
+     "away": 1.66
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 58
+   },
+   "expected": 0.07237236436760491
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.97,
+     "away": 1.08
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 36
+   },
+   "expected": 0.9618088275325135
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.5,
+     "away": 1.42
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 42
+   },
+   "expected": 0.26047131803299545
+  },
+  {
+   "rule": {
+    "kind": "SPREAD",
+    "selection": "AWAY",
+    "lineFixed": "-1.5",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.71,
+     "away": 1.21
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 12
+   },
+   "expected": 0.014109447052564773
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.46,
+     "away": 1.93
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 39
+   },
+   "expected": 0.07175548078648541
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.09,
+     "away": 0.66
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 20
+   },
+   "expected": 0.9999999999999997
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.46,
+     "away": 0.6
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 86
+   },
+   "expected": 0.7729740881129181
+  },
+  {
+   "rule": {
+    "kind": "BOTH_TEAMS_TO_SCORE"
+   },
+   "input": {
+    "rates": {
+     "home": 1.44,
+     "away": 1.39
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 56
+   },
+   "expected": 0.9999999999621962
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.49,
+     "away": 1.62
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 48
+   },
+   "expected": 0.23139465489587727
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 2.4,
+     "away": 1.21
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 33
+   },
+   "expected": 0.1734582941445648
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.55,
+     "away": 1.33
+    },
+    "home": 0,
+    "away": 0,
+    "minutesLeft": 73
+   },
+   "expected": 0.2780100106188376
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.7,
+     "away": 1.02
+    },
+    "home": 0,
+    "away": 2,
+    "minutesLeft": 60
+   },
+   "expected": 0.13627554589416943
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 0.92,
+     "away": 1.7
+    },
+    "home": 1,
+    "away": 1,
+    "minutesLeft": 53
+   },
+   "expected": 0.3396106939029073
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.12,
+     "away": 0.58
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 41
+   },
+   "expected": 0.8478571705458022
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "HOME",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.51,
+     "away": 1.64
+    },
+    "home": 1,
+    "away": 2,
+    "minutesLeft": 21
+   },
+   "expected": 0.005542515090983464
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 1.06,
+     "away": 1.83
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 26
+   },
+   "expected": 0.8245411289453044
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 0.66,
+     "away": 1.99
+    },
+    "home": 2,
+    "away": 2,
+    "minutesLeft": 82
+   },
+   "expected": 0.21609526791230033
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 1.39,
+     "away": 0.79
+    },
+    "home": 1,
+    "away": 0,
+    "minutesLeft": 87
+   },
+   "expected": 0.1492913178416028
+  },
+  {
+   "rule": {
+    "kind": "DRAW"
+   },
+   "input": {
+    "rates": {
+     "home": 0.78,
+     "away": 1.28
+    },
+    "home": 2,
+    "away": 0,
+    "minutesLeft": 41
+   },
+   "expected": 0.07552400518086205
+  },
+  {
+   "rule": {
+    "kind": "TEAM_WIN",
+    "selection": "AWAY",
+    "equality": "NO_WINS"
+   },
+   "input": {
+    "rates": {
+     "home": 0.56,
+     "away": 0.89
+    },
+    "home": 0,
+    "away": 1,
+    "minutesLeft": 19
+   },
+   "expected": 0.8955001092215419
+  }
+ ],
+ "action": [
+  {
+   "fairYes": 0.334,
+   "book": {
+    "bestBid": 0.12,
+    "bestAsk": 0.15
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.4,
+   "book": {
+    "bestBid": 0.66,
+    "bestAsk": 0.69
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.671,
+   "book": {
+    "bestBid": 0.29,
+    "bestAsk": 0.31
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.310000",
+    "edgePoints": "36.1"
+   }
+  },
+  {
+   "fairYes": 0.177,
+   "book": {
+    "bestBid": 0.19,
+    "bestAsk": 0.2
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "EDGE_AT_OR_BELOW_THRESHOLD"
+   }
+  },
+  {
+   "fairYes": 0.391,
+   "book": {
+    "bestBid": 0.66,
+    "bestAsk": 0.67
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.340000",
+    "edgePoints": "26.9"
+   }
+  },
+  {
+   "fairYes": 0.827,
+   "book": {
+    "bestBid": 0.33,
+    "bestAsk": 0.38
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.597,
+   "book": {
+    "bestBid": 0.32,
+    "bestAsk": 0.35
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.329,
+   "book": {
+    "bestBid": 0.18,
+    "bestAsk": 0.2
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.200000",
+    "edgePoints": "12.9"
+   }
+  },
+  {
+   "fairYes": 0.19,
+   "book": {
+    "bestBid": 0.28,
+    "bestAsk": 0.31
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.117,
+   "book": {
+    "bestBid": 0.67,
+    "bestAsk": 0.72
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.989,
+   "book": {
+    "bestBid": 0.86,
+    "bestAsk": 0.89
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.255,
+   "book": {
+    "bestBid": 0.7,
+    "bestAsk": 0.71
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.300000",
+    "edgePoints": "44.5"
+   }
+  },
+  {
+   "fairYes": 0.371,
+   "book": {
+    "bestBid": 0.06,
+    "bestAsk": 0.11
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.13,
+   "book": null,
+   "expected": {
+    "kind": "PASS",
+    "reason": "NO_TWO_SIDED_BOOK"
+   }
+  },
+  {
+   "fairYes": 0.559,
+   "book": {
+    "bestBid": 0.94,
+    "bestAsk": 0.99
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.019,
+   "book": {
+    "bestBid": 0.8,
+    "bestAsk": 0.83
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.729,
+   "book": {
+    "bestBid": 0.14,
+    "bestAsk": 0.15
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.150000",
+    "edgePoints": "57.9"
+   }
+  },
+  {
+   "fairYes": 0.646,
+   "book": {
+    "bestBid": 0.21,
+    "bestAsk": 0.24
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.206,
+   "book": {
+    "bestBid": 0.42,
+    "bestAsk": 0.44
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.580000",
+    "edgePoints": "21.4"
+   }
+  },
+  {
+   "fairYes": 0.886,
+   "book": {
+    "bestBid": 0.37,
+    "bestAsk": 0.39
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.390000",
+    "edgePoints": "49.6"
+   }
+  },
+  {
+   "fairYes": 0.892,
+   "book": {
+    "bestBid": 0.4,
+    "bestAsk": 0.42
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.420000",
+    "edgePoints": "47.2"
+   }
+  },
+  {
+   "fairYes": 0.754,
+   "book": {
+    "bestBid": 0.67,
+    "bestAsk": 0.72
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.771,
+   "book": {
+    "bestBid": 0.02,
+    "bestAsk": 0.04
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "PRICE_OUT_OF_RANGE"
+   }
+  },
+  {
+   "fairYes": 0.959,
+   "book": {
+    "bestBid": 0.5,
+    "bestAsk": 0.51
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.510000",
+    "edgePoints": "44.9"
+   }
+  },
+  {
+   "fairYes": 0.953,
+   "book": {
+    "bestBid": 0.67,
+    "bestAsk": 0.68
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.680000",
+    "edgePoints": "27.3"
+   }
+  },
+  {
+   "fairYes": 0.109,
+   "book": {
+    "bestBid": 0.7,
+    "bestAsk": 0.72
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.300000",
+    "edgePoints": "59.1"
+   }
+  },
+  {
+   "fairYes": 0.137,
+   "book": {
+    "bestBid": 0.55,
+    "bestAsk": 0.6
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.047,
+   "book": {
+    "bestBid": 0.61,
+    "bestAsk": 0.66
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.717,
+   "book": {
+    "bestBid": 0.19,
+    "bestAsk": 0.22
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.974,
+   "book": {
+    "bestBid": 0.67,
+    "bestAsk": 0.68
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.680000",
+    "edgePoints": "29.4"
+   }
+  },
+  {
+   "fairYes": 0.26,
+   "book": {
+    "bestBid": 0.52,
+    "bestAsk": 0.53
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.480000",
+    "edgePoints": "26.0"
+   }
+  },
+  {
+   "fairYes": 0.916,
+   "book": {
+    "bestBid": 0.78,
+    "bestAsk": 0.83
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.862,
+   "book": {
+    "bestBid": 0.87,
+    "bestAsk": 0.89
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "EDGE_AT_OR_BELOW_THRESHOLD"
+   }
+  },
+  {
+   "fairYes": 0.996,
+   "book": {
+    "bestBid": 0.34,
+    "bestAsk": 0.39
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.074,
+   "book": {
+    "bestBid": 0.41,
+    "bestAsk": 0.42
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.590000",
+    "edgePoints": "33.6"
+   }
+  },
+  {
+   "fairYes": 0.724,
+   "book": {
+    "bestBid": 0.82,
+    "bestAsk": 0.83
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.180000",
+    "edgePoints": "9.6"
+   }
+  },
+  {
+   "fairYes": 0.448,
+   "book": {
+    "bestBid": 0.62,
+    "bestAsk": 0.63
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.380000",
+    "edgePoints": "17.2"
+   }
+  },
+  {
+   "fairYes": 0.031,
+   "book": {
+    "bestBid": 0.03,
+    "bestAsk": 0.05
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "PRICE_OUT_OF_RANGE"
+   }
+  },
+  {
+   "fairYes": 0.568,
+   "book": {
+    "bestBid": 0.55,
+    "bestAsk": 0.58
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.228,
+   "book": {
+    "bestBid": 0.92,
+    "bestAsk": 0.95
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.918,
+   "book": null,
+   "expected": {
+    "kind": "PASS",
+    "reason": "NO_TWO_SIDED_BOOK"
+   }
+  },
+  {
+   "fairYes": 0.521,
+   "book": {
+    "bestBid": 0.78,
+    "bestAsk": 0.83
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.029,
+   "book": {
+    "bestBid": 0.39,
+    "bestAsk": 0.42
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.83,
+   "book": {
+    "bestBid": 0.79,
+    "bestAsk": 0.81
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "EDGE_AT_OR_BELOW_THRESHOLD"
+   }
+  },
+  {
+   "fairYes": 0.871,
+   "book": {
+    "bestBid": 0.88,
+    "bestAsk": 0.89
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "EDGE_AT_OR_BELOW_THRESHOLD"
+   }
+  },
+  {
+   "fairYes": 0.491,
+   "book": {
+    "bestBid": 0.73,
+    "bestAsk": 0.75
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.270000",
+    "edgePoints": "23.9"
+   }
+  },
+  {
+   "fairYes": 0.017,
+   "book": null,
+   "expected": {
+    "kind": "PASS",
+    "reason": "NO_TWO_SIDED_BOOK"
+   }
+  },
+  {
+   "fairYes": 0.824,
+   "book": {
+    "bestBid": 0.62,
+    "bestAsk": 0.63
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.630000",
+    "edgePoints": "19.4"
+   }
+  },
+  {
+   "fairYes": 0.331,
+   "book": null,
+   "expected": {
+    "kind": "PASS",
+    "reason": "NO_TWO_SIDED_BOOK"
+   }
+  },
+  {
+   "fairYes": 0.612,
+   "book": {
+    "bestBid": 0.01,
+    "bestAsk": 0.06
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.809,
+   "book": {
+    "bestBid": 0.21,
+    "bestAsk": 0.22
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.220000",
+    "edgePoints": "58.9"
+   }
+  },
+  {
+   "fairYes": 0.044,
+   "book": {
+    "bestBid": 0.83,
+    "bestAsk": 0.84
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.170000",
+    "edgePoints": "78.6"
+   }
+  },
+  {
+   "fairYes": 0.919,
+   "book": {
+    "bestBid": 0.28,
+    "bestAsk": 0.33
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.854,
+   "book": {
+    "bestBid": 0.52,
+    "bestAsk": 0.54
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.540000",
+    "edgePoints": "31.4"
+   }
+  },
+  {
+   "fairYes": 0.712,
+   "book": {
+    "bestBid": 0.56,
+    "bestAsk": 0.59
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.714,
+   "book": {
+    "bestBid": 0.17,
+    "bestAsk": 0.22
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.528,
+   "book": {
+    "bestBid": 0.4,
+    "bestAsk": 0.42
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "YES",
+    "buyPrice": "0.420000",
+    "edgePoints": "10.8"
+   }
+  },
+  {
+   "fairYes": 0.311,
+   "book": {
+    "bestBid": 0.83,
+    "bestAsk": 0.85
+   },
+   "expected": {
+    "kind": "ACT",
+    "side": "NO",
+    "buyPrice": "0.170000",
+    "edgePoints": "51.9"
+   }
+  },
+  {
+   "fairYes": 0.301,
+   "book": {
+    "bestBid": 0.45,
+    "bestAsk": 0.48
+   },
+   "expected": {
+    "kind": "PASS",
+    "reason": "SPREAD_TOO_WIDE"
+   }
+  },
+  {
+   "fairYes": 0.791,
+   "book": null,
+   "expected": {
+    "kind": "PASS",
+    "reason": "NO_TWO_SIDED_BOOK"
+   }
+  }
+ ],
+ "view": {
+  "input": {
+   "game": {
+    "kind": "FOOTBALL",
+    "college": false,
+    "eventId": "e:1",
+    "startAt": "2026-10-04T17:00:00.000Z",
+    "listings": [
+     {
+      "listingId": "home",
+      "tokenIdBySide": {
+       "YES": "home-yes",
+       "NO": "home-no"
+      }
+     },
+     {
+      "listingId": "away",
+      "tokenIdBySide": {
+       "YES": "away-yes",
+       "NO": "away-no"
+      }
+     },
+     {
+      "listingId": "spread",
+      "tokenIdBySide": {
+       "YES": "spread-yes",
+       "NO": "spread-no"
+      }
+     }
+    ]
+   },
+   "score": {
+    "eventId": "e:1",
+    "slug": "s",
+    "state": "LIVE",
+    "score": {
+     "home": 14,
+     "away": 7
+    },
+    "period": "Q2",
+    "elapsed": "0:00",
+    "homeLabel": "H",
+    "awayLabel": "A",
+    "observedAt": "2026-10-04T18:40:00.000Z",
+    "digest": "sha256:x"
+   },
+   "rules": {
+    "home": {
+     "rule": {
+      "kind": "TEAM_WIN",
+      "selection": "HOME",
+      "equality": "NEUTRAL"
+     }
+    },
+    "away": {
+     "rule": {
+      "kind": "TEAM_WIN",
+      "selection": "AWAY",
+      "equality": "NEUTRAL"
+     }
+    },
+    "spread": {
+     "rule": {
+      "kind": "SPREAD",
+      "selection": "HOME",
+      "lineFixed": "-3.5",
+      "equality": "NO_WINS"
+     }
+    }
+   },
+   "pregame": [
+    {
+     "checkpoint": "T_MINUS_6H",
+     "viewDigest": "sha256:abc",
+     "eventId": "e:1",
+     "startAt": "2026-10-04T17:00:00.000Z",
+     "listings": [
+      {
+       "listingId": "home",
+       "disposition": "FORECAST",
+       "fairYes": "0.500000"
+      }
+     ]
+    }
+   ],
+   "books": [
+    [
+     "home-yes",
+     {
+      "bestBid": "0.660000",
+      "bestAsk": "0.670000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     }
+    ],
+    [
+     "away-yes",
+     {
+      "bestBid": "0.320000",
+      "bestAsk": "0.330000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     }
+    ],
+    [
+     "spread-yes",
+     {
+      "bestBid": "0.500000",
+      "bestAsk": "0.510000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     }
+    ]
+   ],
+   "now": "2026-10-04T18:40:05.000Z"
+  },
+  "expected": {
+   "contractVersion": "juke.counterpart.live-view.v1",
+   "provisional": true,
+   "eventId": "e:1",
+   "startAt": "2026-10-04T17:00:00.000Z",
+   "checkpoint": "HALF",
+   "sealedAt": "2026-10-04T18:40:05.000Z",
+   "game": {
+    "period": "Q2",
+    "elapsed": "0:00",
+    "home": 14,
+    "away": 7,
+    "observedAt": "2026-10-04T18:40:00.000Z",
+    "minutesLeft": 30
+   },
+   "model": {
+    "name": "FOOTBALL_NORMAL_MARGIN",
+    "parameters": {
+     "sigma": 13.86,
+     "pregameHomeWin": 0.5
+    }
+   },
+   "pregame": {
+    "checkpoint": "T_MINUS_6H",
+    "viewDigest": "sha256:abc"
+   },
+   "listings": [
+    {
+     "listingId": "home",
+     "fairYes": "0.762464",
+     "book": {
+      "bestBid": "0.660000",
+      "bestAsk": "0.670000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     },
+     "action": {
+      "kind": "ACT",
+      "side": "YES",
+      "buyPrice": "0.670000",
+      "edgePoints": "9.2"
+     }
+    },
+    {
+     "listingId": "away",
+     "fairYes": "0.237536",
+     "book": {
+      "bestBid": "0.320000",
+      "bestAsk": "0.330000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     },
+     "action": {
+      "kind": "PASS",
+      "reason": "ONE_ACTION_PER_GAME"
+     }
+    },
+    {
+     "listingId": "spread",
+     "fairYes": "0.639501",
+     "book": {
+      "bestBid": "0.500000",
+      "bestAsk": "0.510000",
+      "sourceOccurredAt": "2026-10-04T18:40:01.000Z"
+     },
+     "action": {
+      "kind": "PASS",
+      "reason": "ONE_ACTION_PER_GAME"
+     }
+    }
+   ],
+   "recordDigest": "(not compared)"
+  }
+ }
+}

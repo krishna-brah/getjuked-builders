@@ -1,0 +1,22 @@
+{
+  "schema": "juke.builder.synthetic-input.v1",
+  "synthetic": true,
+  "now": "2026-10-04T18:00:00Z",
+  "kickoff": "2026-10-04T19:00:00Z",
+  "phase": "PREGAME",
+  "decisionId": "synthetic-offline-001",
+  "listingId": "synthetic-listing-001",
+  "eventId": "synthetic-event-001",
+  "arenaId": "arena:football",
+  "sport": "NFL",
+  "marketType": "winner",
+  "rulesVerified": true,
+  "yesMeans": "HOME_WIN",
+  "quotes": {
+    "YES": {"bid": "0.6", "ask": "0.62", "askDepthShares": "1000", "receivedAt": "2026-10-04T17:59:59Z"},
+    "NO": {"bid": "0.38", "ask": "0.4", "askDepthShares": "1000", "receivedAt": "2026-10-04T17:59:59Z"}
+  },
+  "book": {"availableCredits": "1000", "openPositions": 0, "eventBuyActions": 0, "weekBuyActions": 0},
+  "ownPrior": {"homeWin": 0.72, "resultsOnly": true, "fitAsOf": "2026-10-03T12:00:00Z", "modelVersion": "synthetic-own-results-prior-v1"},
+  "liveState": {"homeScore": 7, "awayScore": 0, "regulationSecondsRemaining": 1800, "period": 3, "quarterSecondsRemaining": 900, "scoreSemantics": "PRE_PLAY", "status": "REGULATION", "receivedAt": "2026-10-04T17:59:59Z"}
+}
