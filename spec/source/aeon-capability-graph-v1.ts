@@ -1126,7 +1126,7 @@ export function capabilityTradingFromSeasonWeekV1(input: {
     const axes = input.axes.get(pick.listingId) ?? NO_AXES;
     if (pick.status === 'TRADED_AFTER_START') {
       live.push(Object.freeze({ eventId: pick.eventId, listingId: pick.listingId, axes }));
-      // Its pregame part, when it has one, is a trading pick like any other (Codex round 2 R1).
+      // Its pregame part, when it has one, is a trading pick like any other (research review, Oct 4 2026).
       const mixed = pick.pregamePart ? input.blocks.get(`${pick.bookId}|${pick.listingId}|${pick.side}`) : undefined;
       const part = mixed?.pregame;
       if (!pick.pregamePart) continue;
