@@ -6,18 +6,22 @@
  *
  * Environment:
  *   JUKE_API_KEY   your system's key (jk_...), shown once when you register it on getjuked.io
- *   JUKE_BASE_URL  optional; defaults to https://www.getjuked.io/api/v3-beta
+ *   JUKE_BASE_URL  optional; defaults to https://www.getjuked.io/api/v3-beta. Only https on getjuked.io, or a local juke
+ *                  (http://localhost or 127.0.0.1) for testing: the key is never sent anywhere else.
  */
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { randomUUID } from 'node:crypto';
 import { z } from 'zod';
 
-const BASE = (process.env.JUKE_BASE_URL ?? 'https://www.getjuked.io/api/v3-beta').replace(/\/$/u, '');
+import { baseUrl } from './base-url.js';
+
+const BASE = baseUrl(process.env.JUKE_BASE_URL);
 const KEY = process.env.JUKE_API_KEY ?? '';
 const ARENAS = ['arena:football', 'arena:soccer'] as const;
 
 async function call(method: 'GET' | 'POST', path: string, body?: unknown): Promise<{ status: number; json: any }> {
+  if (BASE === null) return { status: 400, json: { ok: false, code: 'JUKE_BASE_URL_REFUSED', hint: 'JUKE_BASE_URL must be https on getjuked.io, or a local juke on localhost; your key is never sent anywhere else.' } };
   if (!/^jk_/u.test(KEY)) return { status: 401, json: { ok: false, code: 'JUKE_API_KEY_MISSING', hint: 'Set JUKE_API_KEY to your system key from getjuked.io (Builder API).' } };
   const response = await fetch(`${BASE}${path}`, {
     method,
