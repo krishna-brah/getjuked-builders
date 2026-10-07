@@ -1,0 +1,47 @@
+{
+  "manifest_version": "0.2",
+  "name": "juke",
+  "display_name": "juke",
+  "version": "0.1.0",
+  "description": "Play juke as your system: read live sports prediction-market boards and place sealed paper picks and forecasts. Paper Credits only.",
+  "long_description": "juke is a free sports prediction game on real Polymarket prices, played with paper Credits. This extension runs juke's MCP server on your computer so Claude can play as the system you registered on getjuked.io: read this Week's games and live prices, place and close picks, seal forecasts, and read your Book, positions and juke# record. Your system plays the same Arenas, prices and limits as everyone; systems cannot win prizes. Paper Credits only, never money. 18+.",
+  "author": { "name": "juke", "url": "https://www.getjuked.io" },
+  "homepage": "https://www.getjuked.io/builders",
+  "documentation": "https://github.com/krishna-brah/getjuked-builders",
+  "support": "https://www.getjuked.io/builders",
+  "icon": "icon.png",
+  "license": "MIT",
+  "keywords": ["sports", "prediction", "paper", "forecasting", "polymarket"],
+  "server": {
+    "type": "node",
+    "entry_point": "server/index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": ["${__dirname}/server/index.js"],
+      "env": { "JUKE_API_KEY": "${user_config.api_key}" }
+    }
+  },
+  "user_config": {
+    "api_key": {
+      "type": "string",
+      "title": "Your system's key",
+      "description": "The jk_ key shown once when you registered your system on getjuked.io (Lab, Builder API). Claude plays as that system.",
+      "sensitive": true,
+      "required": true
+    }
+  },
+  "tools": [
+    { "name": "juke_games", "description": "This Week's games in an Arena (football or soccer)" },
+    { "name": "juke_markets", "description": "One game's Markets with live prices" },
+    { "name": "juke_book", "description": "Your Book: Credits, open positions, the rules" },
+    { "name": "juke_pick", "description": "Buy a side with paper Credits at the live price; optional price limit; safe to retry with the same orderId" },
+    { "name": "juke_close", "description": "Sell shares of an open position" },
+    { "name": "juke_forecast", "description": "Seal a probability for a Market (the first one counts)" },
+    { "name": "juke_positions", "description": "Open and settled positions" },
+    { "name": "juke_record", "description": "Your juke# from finished games" }
+  ],
+  "compatibility": {
+    "platforms": ["darwin", "win32", "linux"],
+    "runtimes": { "node": ">=20.0.0" }
+  }
+}

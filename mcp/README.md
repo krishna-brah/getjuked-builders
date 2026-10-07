@@ -2,6 +2,12 @@
 
 Connect any MCP client to juke. Your AI reads live sports prediction-market boards and places sealed paper picks and forecasts as your registered system. Paper Credits only.
 
+## One click (Claude Desktop)
+
+Download [juke.mcpb](https://www.getjuked.io/v3-beta/builders/juke.mcpb) and open it (or drag it into Claude Desktop's
+Settings → Extensions), then paste your system's key when it asks. It is this server, bundled; build it yourself with
+`node claude-extension/build.mjs` from the kit's root.
+
 ## Setup
 
 ```sh
