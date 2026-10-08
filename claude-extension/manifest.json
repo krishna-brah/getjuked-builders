@@ -2,7 +2,7 @@
   "manifest_version": "0.2",
   "name": "juke",
   "display_name": "juke",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Play juke as your system: read live sports prediction-market boards and place sealed paper picks and forecasts. Paper Credits only.",
   "long_description": "juke is a free sports prediction game on real Polymarket prices, played with paper Credits. This extension runs juke's MCP server on your computer so Claude can play as the system you registered on getjuked.io: read this Week's games and live prices, place and close picks, seal forecasts, and read your Book, positions and juke# record. Your system plays the same Arenas, prices and limits as everyone; systems cannot win prizes. Paper Credits only, never money. 18+.",
   "author": { "name": "juke", "url": "https://www.getjuked.io" },

@@ -51,12 +51,19 @@ function compactListing(listing: any) {
   };
 }
 
-const server = new McpServer({ name: 'juke', version: '0.1.0' });
+const server = new McpServer({ name: 'juke', version: '0.1.1' });
+
+// What Claude and ChatGPT read before running a tool: reads run without asking; a pick, a sale or a forecast is sealed
+// the moment juke receives it and cannot be taken back, so the app asks first. Every tool stays inside your own system
+// and juke's games. The same hints as juke's hosted server (https://www.getjuked.io/mcp).
+const READ_HINTS = { readOnlyHint: true, destructiveHint: false, openWorldHint: false } as const;
+const SEALED_HINTS = { readOnlyHint: false, destructiveHint: true, openWorldHint: false } as const;
 
 server.registerTool('juke_games', {
   title: 'List games',
   description: 'This Week\'s games in an Arena (football or soccer): title, start time, game id, number of Markets. Use a game id with juke_markets to see prices.',
   inputSchema: { arena: z.enum(['football', 'soccer']).default('football') },
+  annotations: { ...READ_HINTS, title: 'List games' },
 }, async ({ arena }) => {
   const r = await call('GET', `/builder/board?arenaId=arena:${arena}`);
   if (r.status !== 200) return text(r.json);
@@ -74,6 +81,7 @@ server.registerTool('juke_markets', {
   title: 'Markets with live prices',
   description: 'One game\'s Markets with live prices (0 to 1, the price of a YES or NO share). Before or during the game.',
   inputSchema: { arena: z.enum(['football', 'soccer']).default('football'), gameId: z.string().min(3) },
+  annotations: { ...READ_HINTS, title: 'Markets with live prices' },
 }, async ({ arena, gameId }) => {
   const r = await call('GET', `/builder/board?arenaId=arena:${arena}&eventId=${encodeURIComponent(gameId)}`);
   if (r.status !== 200) return text(r.json);
@@ -84,6 +92,7 @@ server.registerTool('juke_book', {
   title: 'Your Book',
   description: 'Your system\'s Book this Week: Credits, open positions and the Arena rules.',
   inputSchema: { arena: z.enum(['football', 'soccer']).default('football') },
+  annotations: { ...READ_HINTS, title: 'Your Book' },
 }, async ({ arena }) => text((await call('GET', `/builder/board?arenaId=arena:${arena}&view=SUMMARY`)).json));
 
 server.registerTool('juke_pick', {
@@ -97,7 +106,7 @@ server.registerTool('juke_pick', {
     limitPrice: z.number().gt(0).lt(1).optional(),
     orderId: z.string().regex(/^[A-Za-z0-9_-]{6,64}$/u).optional().describe('Reuse it to retry the same order safely'),
   },
-  annotations: { destructiveHint: false, idempotentHint: true },
+  annotations: { ...SEALED_HINTS, title: 'Place a paper pick' },
 }, async ({ arena, listingId, side, credits, limitPrice, orderId }) => text((await call('POST', '/builder/pick', {
   arenaId: ARENAS.find((id) => id.endsWith(arena)), listingId, side, credits, orderId: orderId ?? `mcp-${randomUUID().slice(0, 18)}`,
   ...(limitPrice === undefined ? {} : { limitPrice }),
@@ -112,6 +121,7 @@ server.registerTool('juke_close', {
     shares: z.string().regex(/^\d{1,7}(\.\d{1,6})?$/u),
     orderId: z.string().regex(/^[A-Za-z0-9_-]{6,64}$/u).optional(),
   },
+  annotations: { ...SEALED_HINTS, title: 'Sell a position' },
 }, async ({ arena, listingId, side, positionId, shares, orderId }) => text((await call('POST', '/builder/pick', {
   arenaId: ARENAS.find((id) => id.endsWith(arena)), listingId, side, operation: 'CLOSE', positionId, shares, orderId: orderId ?? `mcp-${randomUUID().slice(0, 18)}`,
 })).json));
@@ -120,18 +130,21 @@ server.registerTool('juke_forecast', {
   title: 'Seal a forecast',
   description: 'Seal your probability that a Market resolves YES (0.01 to 0.99). One per Market; the first one counts. Open before or during the game.',
   inputSchema: { listingId: z.string().min(3), probability: z.number().min(0.01).max(0.99) },
+  annotations: { ...SEALED_HINTS, title: 'Seal a forecast' },
 }, async ({ listingId, probability }) => text((await call('POST', '/builder/forecast', { listingId, probability })).json));
 
 server.registerTool('juke_positions', {
   title: 'Your positions',
   description: 'Your open and settled positions.',
   inputSchema: {},
+  annotations: { ...READ_HINTS, title: 'Your positions' },
 }, async () => text((await call('GET', '/builder/positions')).json));
 
 server.registerTool('juke_record', {
   title: 'Your juke#',
-  description: 'Your system\'s record from finished games: graded against the market, never one score; what each cell still needs.',
+  description: 'Your system\'s record from finished games: graded against where the market went next, with what each cell still needs.',
   inputSchema: {},
+  annotations: { ...READ_HINTS, title: 'Your juke#' },
 }, async () => text((await call('GET', '/builder/record')).json));
 
 await server.connect(new StdioServerTransport());

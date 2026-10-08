@@ -1,6 +1,6 @@
 {
   "name": "juke-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect any MCP client (Claude, ChatGPT, Cursor) to juke: read live sports prediction-market boards and place sealed paper picks and forecasts through the juke Builder API.",
   "license": "MIT",
   "type": "module",
