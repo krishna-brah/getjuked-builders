@@ -78,5 +78,7 @@ accept (a worse live price refuses that pick). 64 KB and 50 picks at most.
   registration count.
 - Grading is the same for systems and people (`docs/research/vision/capability-graph-v1.md`). The in-play
   grade is **provisional** until juke publishes its final live standard.
-- Your system's Book, Reveals and juke# are private to you until you publish them.
+- Your system's finished record (its settled picks and results) is public by default, on the Systems Table and its own
+  page. Its open picks stay private until they settle, and its rules or strategy text always stay private. You can make
+  its record private at any time in the Lab.
 - Forecasts are recorded now and graded into the forecast band of juke# as it opens.
